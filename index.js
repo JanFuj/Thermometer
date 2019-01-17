@@ -24,3 +24,6 @@ function getActualTemp(){
 function getActual(){
     return (Math.random() * 100).toFixed(2)
 }
+function getActual(){
+    return (Math.random() * 100).toFixed(2)
+}
