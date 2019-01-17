@@ -9,4 +9,5 @@ function getTemp(){
         console.log(text)
     });
 }
+defaultStatus
 
